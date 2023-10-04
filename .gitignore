@@ -1,3 +1,8 @@
+*.xlsx
+*.txt
+buscar_olx_bs.py
+automacaoFlet_profile/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -227,7 +227,7 @@ def coletar_dados_vendedor(navegadorChrome, lst_dados):
     return lst_dados_vendedor   
  
 
-def salvar_dados_txt():
+def salvar_dados_txt(lst_dados):
     arquivo = 'dados_olx_novo.txt'
     
     arquivo_existe = False
